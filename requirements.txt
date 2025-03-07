@@ -1,0 +1,5 @@
+python-telegram-bot
+opencv-python
+pyautogui
+numpy
+python-dotenv
