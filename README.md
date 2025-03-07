@@ -22,7 +22,7 @@ A Telegram bot that allows users to execute commands on a remote PC.
    python setup.py
    ```
 4. Run the bot:
-   ```
+   ```python
    python main.py
    ```
 
