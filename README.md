@@ -9,20 +9,20 @@ A Telegram bot that allows users to execute commands on a remote PC.
 
 ## Installation
 1. Clone this repository:
-   ```
+   ```sh
    git clone https://github.com/JamesCoalchi/RemoteBot.git
    cd telegram-remote-bot
    ```
 2. Install dependencies:
-   ```
+   ```sh
    pip install -r requirements.txt
    ```
 3. Run setup.py and configure your .env file
-   ```
+   ```sh
    python setup.py
    ```
 4. Run the bot:
-   ```python
+   ```sh
    python main.py
    ```
 
